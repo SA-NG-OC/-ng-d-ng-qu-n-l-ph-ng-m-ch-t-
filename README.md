@@ -14,7 +14,7 @@ Mục tiêu của dự án là xây dựng một hệ thống **quản lý phòn
 - **Cơ sở dữ liệu:** PostgreSQL 15+  
 - **Kết nối DB:** JDBC (PostgreSQL Driver)  
 - **IDE khuyến nghị:** IntelliJ IDEA / Eclipse  
-- **Các công cụ khác:** CSS để thiết kế giao diện
+- **Các công cụ khác:** CSS, SceneBuilder để thiết kế giao diện
 
 ## 🚀 Cài đặt & chạy phần mềm
 
